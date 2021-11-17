@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Adrian Sánchez-Castro and I'm passionate about AI disruption. 
+My name is Adrian Sánchez-Castro and I'm passionate about business centric AI 
