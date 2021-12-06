@@ -13,7 +13,7 @@ In this repo you will be able to find code related to personal ML projects, data
 - Co-founder 👨‍🎤 of the Institute of Analytics & latAIm
 
 ***
-`wheretofindme`
+`wheretofindme`📍
 
 - You can find me in the best taquerias of NY🗽 -> #🥇 Taquería = [TaqueríaRamirez](https://ny.eater.com/2021/9/15/22650673/taqueria-ramirez-opening-greenpoint-nyc) in Greenpoint.
 - Sending me a Tweet or DM at [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_sanchezcastro.svg?style=social&label=%40_sanchezcastro)](https://twitter.com/_sanchezcastro)
