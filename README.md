@@ -2,7 +2,7 @@
 
 `Welcome to my repo` 🙌
 
-In this repo you will be able to find code related to personal ML projects,teaching classes, data science courses, and personal coding tutorials. 
+In this repo you will be able to find code related to personal ML projects, teaching classes, data science courses, and personal coding tutorials. 
 
 ***
 `whoami` 🤓
