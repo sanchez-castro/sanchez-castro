@@ -7,7 +7,7 @@ In this repo you will be able to find code related to personal ML projects, teac
 ***
 `whoami` 🤓
 
-- PM 🥷 @ [Cohere](https://cohere.ai/) && Previous AI/ML PM 🥷 in the [Conversational AI 🤖 team](https://medium.com/walmartglobaltech/tagged/voice-assistant) at [Walmart Global Tech ⚡](https://medium.com/walmartglobaltech) 
+- PM 🥷 @ [Cohere](https://cohere.ai/) && Previous Data PM 🥷 in the [Conversational AI 🤖 team](https://medium.com/walmartglobaltech/tagged/voice-assistant) at [Walmart Global Tech ⚡](https://medium.com/walmartglobaltech) 
 - Associate Professor 👨🏻‍🏫 of [Data/ML Engineer](https://github.com/sanchez-castro/arquitectura-producto-datos) at [ITAM](https://www.itam.mx/)
 - Alumnus 👨🏽‍🎓 from [Cornell University (Tech)](https://www.tech.cornell.edu/) & [ITAM](https://www.itam.mx/)
 - Co-founder 👨‍🎤 of the Institute of Analytics & latAIm
